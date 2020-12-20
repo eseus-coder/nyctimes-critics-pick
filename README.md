@@ -24,6 +24,7 @@ These section headers will be used to reference location of destination for an e
 #### Languages/Technologies
 
 - HTML5
+- Javascript
 - LOG-files
 - LST-Files
 - Configuration-Files
